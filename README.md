@@ -4,12 +4,13 @@ This is my first personal project using Nodejs.
 ## Modules Used
 * EventEmitter
 * http
+* fs
 
 ## Frameworks
 
 ### CSS
 Fomantic-UI
 
-## JS Library/Frameworks
+### JS Libraries/Frameworks
 JQuery
 Fomantic
